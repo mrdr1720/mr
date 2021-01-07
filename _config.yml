@@ -35,7 +35,6 @@ plugins:
   - jekyll-feed
 
 show_excerpts: true
-root: /
 
 # Exclude from processing.
 # The following items will not be processed, by default.
