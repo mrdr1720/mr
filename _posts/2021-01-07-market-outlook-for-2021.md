@@ -4,10 +4,15 @@ title: Market Outlook for 2021
 date: 2021-01-05 16:39 -0500
 ---
 
-<i>All crises have involved debt that, in one fashion or another, has become dangerously out of scale in relation to the underlying means of payment. More often, even a semblance of innovation is absent. In the 1920s, as we shall see, great holding companies were created. The owners, that is to say the stockholders, issued bonds and preferred stock in order to buy other stocks. As the latter appreciated in value- for a while- all the increase accrued to the owners. This was proclaimed one of the financial miracles of that age. It was, in fact, leverage in, at most, a slightly different guise.</i>
+<blockquote><p>
+  <i>All crises have involved debt that, in one fashion or another, has become dangerously out of scale in relation to the underlying means of payment. More often, even a semblance of innovation is absent. In the 1920s, as we shall see, great holding companies were created. The owners, that is to say the stockholders, issued bonds and preferred stock in order to buy other stocks. As the latter appreciated in value- for a while- all the increase accrued to the owners. This was proclaimed one of the financial miracles of that age. It was, in fact, leverage in, at most, a slightly different guise.</i>
+</p>
 
-<b>-John Kenneth Galbraith, A Short History of Financial Euphoria</b>
+<p>
+  <b>-John Kenneth Galbraith, A Short History of Financial Euphoria</b>
+</p></blockquote>
 
+<br/>
 In late cycle bull markets you start to see strange things crop up. I was reading the above excerpt last night and couldn’t help but immediately think of the rise of ARK Invest and how Cathie Wood, the founder, is widely cited as a genius stock picker and tech visionary.
 
 I subscribe to a few schools of thought when it comes to the market, maybe the most important being that when opportunity is present, many are drawn in, few survive, and even fewer thrive. It is a sad fact of life that there can only be a few true visionaries- Edison, Jobs, Ford, etc. When you start to see many people cited as genius visionaries at once, there’s a good chance there’s some willful delusion at play.
