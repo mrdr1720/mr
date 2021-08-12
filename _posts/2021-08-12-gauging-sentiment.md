@@ -27,3 +27,5 @@ My advice: don’t pay attention to the CNN Fear and Greed Index or Put/Call Rat
 Trading is harder than it seems.
 
 As an aside, as I write this, there are those who I follow who were bearish on Bitcoin since they first heard of it who are now talking about “buyable dips.” Let’s see how this unfolds.
+
+Aside part two: interestingly <a href="https://www.teslarati.com/tesla-tslaq-abandons-short-bet-no-revival/" target="_blank">this article showed up in my feed literally ten minutes after I posted this.</a>
