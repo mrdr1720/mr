@@ -24,8 +24,10 @@ People love to say sell when there’s euphoria. Complete nonsense. That’s som
 
 My advice: don’t pay attention to the CNN Fear and Greed Index or Put/Call Ratio or whatever sentiment gauge is being circulated to try and gauge sentiment. Pay attention to the reluctant bulls because when they capitulate the boat is truly one-sided and downside risk is great.
 
+How to gauge this? I think the correct mix is complete arrogance amongst the permabulls (shit-talking, endless bullish chart posting, especially from people who had gone dormant for a number of weeks when things weren't so rosy) along with the aforementioned abandonment of bearish positions from the reluctant bulls. In other words, when it is <i>really</i> hard to find people actually heavily positioned for a bear market.
+
 Trading is harder than it seems.
 
 As an aside, as I write this, there are those who I follow who were bearish on Bitcoin since they first heard of it who are now talking about “buyable dips.” Let’s see how this unfolds.
 
-Aside part two: interestingly <a href="https://www.teslarati.com/tesla-tslaq-abandons-short-bet-no-revival/" target="_blank">this article showed up in my feed literally ten minutes after I posted this.</a>
+Aside part two: interestingly, <a href="https://www.teslarati.com/tesla-tslaq-abandons-short-bet-no-revival/" target="_blank">this article showed up in my feed literally ten minutes after I posted this.</a>
