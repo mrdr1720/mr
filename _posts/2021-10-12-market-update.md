@@ -4,8 +4,6 @@ title: Market Update
 date: 2021-10-12 16:34 -0400
 ---
 
-Market Update
-
 The QQQ made it’s last high on September 7th at a closing price of $382.11. Since then, it’s broken trend badly and although the selling to this point has been measured, I believe that it is likely to accelerate to the downside significantly before any bottom is going to be reached. The pattern of the QQQ’s over the past six months is particularly interesting to me because it is very similar to the lead-up to prior crashes.
 
 In the May-June timeframe, the market had a smallish correction of around 8% that lasted a few weeks before entering what looked a lot like a blow-off top into early September. This is remarkably similar to the mega caps in 1987, when the DJIA topped on August 25th before beginning what looked like a benign correction before accelerating into the crash.
