@@ -1,0 +1,19 @@
+---
+layout: post
+title: Market Update
+date: 2021-10-12 16:34 -0400
+---
+
+Market Update
+
+The QQQ made it’s last high on September 7th at a closing price of $382.11. Since then, it’s broken trend badly and although the selling to this point has been measured, I believe that it is likely to accelerate to the downside significantly before any bottom is going to be reached. The pattern of the QQQ’s over the past six months is particularly interesting to me because it is very similar to the lead-up to prior crashes.
+
+In the May-June timeframe, the market had a smallish correction of around 8% that lasted a few weeks before entering what looked a lot like a blow-off top into early September. This is remarkably similar to the mega caps in 1987, when the DJIA topped on August 25th before beginning what looked like a benign correction before accelerating into the crash.
+
+Here’s what’s interesting. In 1987, between August 25th and early October, the selling was relatively benign (the DJIA dropped about 8% between the August high and the first week of October). Right before the crash, however, there was a massive rally that took the index back up to recoup roughly half of what it lost. To bulls hoping to spot a bottom that must have been a terrible trap! It wasn’t until days before the crash that the selling really accelerated. I’ve been turning this over in my mind for a few days now, and I now believe that if we get some extreme volatility and some sort of crash or deep correction, it’s likely to cap off a relatively benign correction like the one we are experiencing now.
+
+Right at this moment I believe we are at a very precarious moment for the market and despite there being quite a bit of bearish commentary, few people are taking it seriously. I see a lot of complacency, dip-buying and perhaps most telling- people mocking those who are buying protection in the form of puts. That is, people continue to cite the put to call ratio as a given contrarian sentiment indicator but never stop to consider whether puts might actually not be a terrible buy. In short, people have completely disregarded the risk of a massive selloff. And that could be where the opportunity lies.
+
+I believe that there is a very good chance that volatility is going to pick up dramatically in the next 2-3 weeks. This makes sense to me for two reasons. The first is that the past couple of weeks of gradual declines mixed with sharp recoveries keeps bulls from getting scared out of their positions and continually hoping for the bull market to resume. I still believe most bulls think we are in a “chop-fest” that will eventually resolve much higher into year-end. Bulls also seem to be convinced that sentiment is overly bearish, citing things like the CNN Fear and Greed index and put-to-call ratios. I think that the price action of recent weeks has been slow enough with enough upward rallies to provide hope that a sudden turn down would catch bulls completely offsides.
+
+As for bears, I believe this could be painful as well. After all, bears have been waiting months and months for a massive sell-off and have gotten ripped apart in the process. At this point it seems completely reasonable that bears would want to wait and see for some heavy selling or bearish rhetoric from the fed to get aggressive. The problem is that as we all know, markets rarely give you a high sign when it’s a good time to get short. A sudden drop would catch a lot of bears off sides too, not giving them the chance to profit greatly from the crash that they’d been waiting for for so long. As Michael Steinhardt said- “you’ve got to be willing to get in the way of danger.” So I believe to profit from such a market event you’d have to cast your line now, while IV’s are relatively low and before the market makes a decision to go lower. By then put option prices will be prohibitively expensive and dangerous to trade.
