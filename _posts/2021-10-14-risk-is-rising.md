@@ -19,3 +19,5 @@ I'd prefer to see less dip-buying and more chop. Instead, today's rally seems to
 all of the bulls back with more confidence than ever, like moths to a flame. It's safe to say that sentiment has sustained no damage since this correction began.
 
 Most notably of all, all of the major indices and Value Line Geometric Index are still in downtrends. I still believe the risk of a market event soon is massive and today's rally has actually done more to confirm it than detract.
+
+In closing, just gonna drop this here: https://www.nytimes.com/1987/10/02/business/dow-soars-as-new-quarter-begins.html
