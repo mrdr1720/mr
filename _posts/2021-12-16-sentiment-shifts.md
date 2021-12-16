@@ -24,7 +24,7 @@ As of now, it would seem to most that the permabulls have won another decisive b
 
 But… (there’s always a but)
 
-I came across the following article written in March of 2000 in the early stages of the dot-com bust: <a href="https://money.cnn.com/2000/03/21/markets/markets_newyork/"><i>Rate hike, what rate hike?</i></a>
+I came across the following article written in March of 2000 in the early stages of the dot-com bust: <a href="https://money.cnn.com/2000/03/21/markets/markets_newyork/" target="_blank"><i>Wall St.: what rate hike?</i></a>
 
 I find the parallels between that article and the present environment interesting. Even though in March of 2000 the Fed was already in the midst of a tightening cycle and rates were much higher than they are now and that hike resulted in an inverted yield curve, I think the situations are similar in many ways.
 
@@ -34,10 +34,13 @@ That move higher also demonstrated the thrust of bear market rallies. You see, b
 
 There are a few reasons I’m not buying yesterday’s rally, though:
 
-1. There is simply no way the Fed doubling the pace of tapering and now planning three rate hikes in 2022, with the first coming as early as March is bullish.
-2. Markets that rally 2% in the midst of a downtrend near ATH’s are more likely in a bear market than not.
-3. To that point, we are still in a downtrend.
-4. There has been very little damage to sentiment still.
+<ol>
+  <li>There is simply no way the Fed doubling the pace of tapering and now planning three rate hikes in 2022, with the first coming as early as March is bullish.</li>
+  <li>Markets that rally 2% in the midst of a downtrend near ATH’s are more likely in a bear market than not.</li>
+  <li>To that point, we are still in a downtrend.</li>
+  <li>There has been very little damage to sentiment still.</li>
+</ol>
 
+What I find really interesting amidst this chaos though is how opinions change. Just a couple of months ago, even tapering was highly in question. Now with an accelerated taper and three hikes being announced, the market commentators are heralding this as bullish. It’s amazing what a combination of a bullish bias, long positions, and a couple hour’s worth of supportive price action can do to people’s sentiment. People are now totally convinced a hawkish fed is bullish and are calling for a Santa Claus rally into year end! I have to admit I never saw this coming.
 
-What I find really interesting amidst this chaos though is how opinions change. Just a couple of months ago, even tapering was highly in question. Now with an accelerated taper and three hikes being announced, the market commentators are heralding this as bullish. It’s amazing what a combination of a bullish bias, long positions, and a couple hour’s worth of supportive price action can do to people’s sentiment. People are now totally convinced a hawkish fed is bullish and are calling for a Santa Claus rally into year end! I have to admit I never saw this coming. I expect heavy selling to return soon, as early as today.
+I expect heavy selling to return soon, as early as today.
