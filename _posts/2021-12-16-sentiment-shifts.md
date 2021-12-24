@@ -40,7 +40,7 @@ There are a few reasons I’m not buying yesterday’s rally, though:
   <li>To that point, we are still in a downtrend.</li>
   <li>There has been very little damage to sentiment still.</li>
 </ol>
-<br/></br/>
+<br/>
 What I find really interesting amidst this chaos though is how opinions change. Just a couple of months ago, even tapering was highly in question. Now with an accelerated taper and three hikes being announced, the market commentators are heralding this as bullish. It’s amazing what a combination of a bullish bias, long positions, and a couple hour’s worth of supportive price action can do to people’s sentiment. People are now totally convinced a hawkish fed is bullish and are calling for a Santa Claus rally into year end! I have to admit I never saw this coming.
 
 I expect heavy selling to return soon, as early as today.
