@@ -30,7 +30,7 @@ I find the parallels between that article and the present environment interestin
 
 When Greenspan announced that hike, the market rallied over 2% on the back of that news and as demonstrated in that CNN article, the narrative shifted to paint the rate hike as a positive and explaining the initial market reaction due to the hike being "priced-in."
 
-That move higher also demonstrated the thrust of bear market rallies. You see, bear market rallies fool everyone, bulls and bears, and that’s because they create the reality (yes, the reality, not the illusion), that the bull market is back on. It has to. Contrary to popular belieft, market participants aren’t stupid or irrational. They won’t simply buy into a resurrection of the bull market if it’s not convincing. Bears won’t abandon their bearish theses and cover shorts if the rallies don’t seem to be extraordinarily powerful.
+That move higher also demonstrated the thrust of bear market rallies. You see, bear market rallies fool everyone, bulls and bears, and that’s because they create the reality (yes, the reality, not the illusion), that the bull market is back on. It has to. Contrary to popular belief, market participants aren’t stupid or irrational. They won’t simply buy into a resurrection of the bull market if it’s not convincing. Bears won’t abandon their bearish theses and cover shorts if the rallies don’t seem to be extraordinarily powerful.
 
 There are a few reasons I’m not buying yesterday’s rally, though:
 
@@ -40,7 +40,7 @@ There are a few reasons I’m not buying yesterday’s rally, though:
   <li>To that point, we are still in a downtrend.</li>
   <li>There has been very little damage to sentiment still.</li>
 </ol>
-
+<br/></br/>
 What I find really interesting amidst this chaos though is how opinions change. Just a couple of months ago, even tapering was highly in question. Now with an accelerated taper and three hikes being announced, the market commentators are heralding this as bullish. It’s amazing what a combination of a bullish bias, long positions, and a couple hour’s worth of supportive price action can do to people’s sentiment. People are now totally convinced a hawkish fed is bullish and are calling for a Santa Claus rally into year end! I have to admit I never saw this coming.
 
 I expect heavy selling to return soon, as early as today.
