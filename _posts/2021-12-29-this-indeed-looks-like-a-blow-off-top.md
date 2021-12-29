@@ -4,7 +4,7 @@ title: This indeed looks like a blow-off top.
 date: 2021-12-29 11:55 -0500
 ---
 
-It appears increasingly likely that from early October through the beginning to end of November (depending on which chart you look at) Tesla, Apple, Bitcoin, AMD, and Nvidia (and I’m sure several other high-risk names) put in blow-off tops. The rally that we saw from last Tuesday through Thursday is now looking like a textbook bear-market rally.
+It appears increasingly likely that from early October through the beginning to end of November (depending on which chart you look at) Tesla, Apple, Bitcoin, AMD, and Nvidia (and I’m sure several other high-risk names) put in blow-off tops. The rally that we saw from last Tuesday through this past Monday is now looking like a textbook bear-market rally.
 
 Each of these stocks viewed as a microcosm look very similar to the markets of 1929, 1987, and 2000 right before they crashed. Even though I’ve been bearish on the indices I do believe that if these names collapse over the coming weeks it will almost certainly take the rest of the market down with it, given the concentration of cash in these names.
 
