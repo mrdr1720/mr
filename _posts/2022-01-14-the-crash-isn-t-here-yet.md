@@ -11,6 +11,7 @@ The main reasons are:
   <li>The move is not yet confirmed in high yield credit, equal weighted indices, the S&P or the DJIA. The only index in a (slight) downtrend is the Nasdaq 100, which I think will probably revert back onto a buy before the rest go to a sell</li>
 </ol>
 
+<br/>
 Why the sudden change after so much bearish rhetoric over the past several weeks/months?
 
 Aside from the previous two points, the current setup to me seems very similar to the lead in to the 1962 crash. So, I’m still very bearish just not tactically at the current moment. I don’t think there’s a ton of upside, either.
