@@ -11,12 +11,12 @@ What I mean by faux correction is an interim correction that people later think 
 There are a few reasons I’m calling this the bottom in the faux correction.
 
 <ul>
-  <li>The S&P hit my faux correction target level of 4700 today</li>
+  <li>The S&P hit my faux correction target level of 4470 today</li>
   <li>Sentiment seemed to hit a real short-term flush today, especially on the back of the Peloton news</li>
   <li>Earnings are starting and I suspect there will be a rush of money back into the market to position for them</li>
   <li>Even though the absolute level of the selloff didn’t seem like capitulation, peak to trough the NQ dropped more than 500 points!</li>
 </ul>
-
+<br/>
 Consequently I bought a handful of 5% OTM SPY calls towards the close. I think we could get a strong rally maybe tomorrow or early next week. I’d expect that rally to be both enormous and not believed (the hallmarks of a strong interim rally) and I'd look to pitch these after a day or two.
 
-I believe the S&P could carry itself back up towards an ATH but stop just shy of it, may 2-3% below. It would really help sentiment get offsides if we get some strong earnings beats along the way. I think this would be necessary actually to get sentiment positioned very long stocks just in time for the real correction.
+I believe the S&P could carry itself back up towards an ATH but stop just shy of it, may 2-3% below. I'm calling for a ~5% rally back, but not the vertical sort we got in December, more like a strong 2% pop (at which point I'd pitch my calls) then a more gradual ascent over the course of a few weeks which would peter out. It would really help sentiment get offsides if we get some strong earnings beats along the way. I think this would be necessary actually to get sentiment positioned very long stocks just in time for the real correction.
