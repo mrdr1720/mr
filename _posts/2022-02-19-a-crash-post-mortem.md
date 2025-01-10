@@ -20,7 +20,7 @@ But if you were to look at a chart of the S&P 500 not knowing anything else abou
 
 Our definition of the market must evolve to account for the fact that there is very little correlation in the moves between the average stock and the parts that experienced the blow off tops that I wrote about a month or two ago.
 
-The mistake I and so many others made was assuming that these blow-off tops would have large ramifications on the entire market of stocks. But that largely hasn’t materialized. The stocks that never really went up leaps and bounds like NVDA, FB, or NFLX did last summer and fall, have come down but nearly in the devastating manner that those stocks have.
+The mistake I and so many others made was assuming that these blow-off tops would have large ramifications on the entire market of stocks. But that largely hasn’t materialized. The stocks that never really went up leaps and bounds like NVDA, FB, or NFLX did last summer and fall, have come down but not nearly in the devastating manner that those stocks have.
 
 But if we define the market as the parts that have caused the greatest concern- the ARK innovation type stocks and those that went up 50-80% in a span of a couple of months last year, we have experienced a crash. Crashes, by the way, historically last about 6-10 weeks. More on that later.
 
