@@ -46,3 +46,52 @@ Here’s another interesting part of this story. Gross bookings, trips completed
 A last but most important point. Uber has had a massive tailwind over the past few years that few seem to consider and that has been the amazingly stable price of oil. One of the highest cost inputs for drivers, gas, has been locked at about $3 a gallon. I'm not making a prediction about the price of oil here, but its very likely that save for some economic calamity, the price of gas is not going significantly lower than where it is, but could conceivably have a lot of upside. If that happens, who will bear the cost? The drivers who have already been squeezed, riders who are paying higher prices, or Uber? If that becomes an expense that Uber has to partially offset, its going to be a massive drag on profit. It's a major risk to the business but one I never hear anyone mention because they're focused on self-driving cars.
 
 By the way, if you doubt this analysis because of the recent move in Uber on the back of Ackman's investment being made public, keep in mind that when he announced his Netflix buy in early 2022, the stock rallied 27% over four days before collapsing. The point being that these types of gimmicks- a highly regarded investor publicly announcing an investment followed by a retail pile-in can drive a stock vertically for several days but eventually the stock is going to go where it was going to go. We'll know very soon whether or not this was a legitimate investment thesis by Ackman or just a retail and FOMO driven bear market rally.
+
+<h2>But what about autonomous?</h2>
+
+Much ink has been spilled over the past several months about the emergence of autonomous vehicles
+and whether or not they pose an existential threat to Uber. Uber has traded down, ostensibly on
+headlines like Tesla launching their Cybercab.
+
+For what it's worth, I personally don't believe AV poses an immediate threat to Uber. I think that
+for the most part those stories are distractions and provide a convenient excuse to sell. So often
+stocks top on stories that seemingly have little fundamental implications in the short term and
+provide obvious opportunities to buy on dips.
+
+Just a couple of examples, the "Babson Break" in 1929 and the Omicron variant which essentially marked the top in the market on Thanksgiving night, 2021. Of course after those initial breaks the market just kept going lower for no obvious reason.
+
+For reasons previously stated I believe the fundamentals of Uber's business are very weak yet the public perception among retail traders and a lot of institutional investors is overwhelmingly bullish. I've
+noticed that each time Uber has sold off on headlines related to Waymo or Cybercab it has been met with
+immediate skepticism from the bulls and viewed as a "dumb" reason to sell.
+
+<h2>A little history</h2>
+
+I think one of the more poorly understood stories as it relates to Uber is just how they have created
+such enormous growth in revenue and profits recently.
+
+Before Dara K. became the CEO, Travis Kalanick was at the helm. He created a lot of controversy, but
+in my view he was an essential part of the company's DNA and an amazing innovator with tons of great ideas. His top priority at the time of his termination was the development of autonomous vehicles. When he left, that innovative culture left with him.
+
+The Uber board decided that they didn't want innovation, they wanted profits and they wanted them now. So they installed Dara who admittedly has done exactly what they hired him to do.
+
+**The Uber strategy post-Kalanick has been a four-pronged approach.**
+
+<ol>
+  <li>Cut all R&D expenses (read, AV development)</li>
+  <li>Raise rider costs</li>
+  <li>Cut driver pay</li>
+  <li>Add as many different offerings on the app as you can dream up sprinter vans, shuttles, freight, etc.</li>
+</ol>
+
+<br/>
+Here's the thing. Unless you are immensely profitable like Apple or Meta (which clearly Uber is not), you can choose to focus either on growth or margin expansion. As Jeff Bezos famously said, "your profit is my opportunity."
+
+And for so many years pre-Dara, that was Uber's strategy. Take over markets by charging lower fares and making rides extremly quick and convenient.
+
+Post-Dara, however, rides have become more expensive and there has been zero development in autonomous. Uber is not stupid, though. They know they need to remain relevant in autonomous so they are attempting to have the best of both worlds- to spin a tale as if they are perfectly positioned to be the platform while not spending a dime on development themselves. Additionally, Uber has made massive investments in Aurora Technologies and Grab so that they can claim that they are involved though not having to show any R&D expenses on their balance sheet.
+
+But I believe that the past couple of earnings reports have shown a slowing trend in increased profits and as discussed, this past quarter profits grew exactly in line with rides and revenue, implying that Uber cannot increase profit margins any more than they have and are totally at the mercy of how many rides they can book. If for some reason there are fewer rides than expected next quarter they will miss earnings. The only way that they can continue to exceed Wall Street's expectations are to get more and more riders.
+
+Obviously, though that can't continue in perpetuity and with each quarter the expectations are increased. That's truer than ever now that the stock has risen over 20% on Bill Ackman's investment and this renewed retail enthusiasm considering Uber a "can't miss" trade.
+
+And that really I believe is why the stock sold off on earnings. Because Uber in a way acknowledged as much in their light guidance. This is a stock that trades at a very high multiple despite how bulls try to mask it through metrics like FCF. The pressure on Uber is immense and I believe the risk reward for this stock is to the downside.
