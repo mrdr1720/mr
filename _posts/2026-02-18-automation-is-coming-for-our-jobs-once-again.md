@@ -15,7 +15,7 @@ extension of the idea that traditional software would die was that automation an
 
 If we were to speculate that that narrative has reached a fever pitch with a combination of fear and excitement, we could then try and predict what happens next for this trade.
 
-While I’m not sure I love diving back into software stocks, they do seem to be trying to form a base and I do think perhaps I’m reading fewer people trying to aggressively buy dips. I’m also starting to hear more people suggest SaaS will in fact be disrupted. All signs of possible capitulation on software. I do think this latest narrative has created a lot of confusion for SaaS vendors so their strategies going forward are a huge question mark and I believe will mark a turning point for the industry. As they say, "chaos is a ladder."
+While I’m not sure I love diving back into software stocks, they do seem to be trying to form a base and I do think perhaps I’m reading fewer people trying to aggressively buy dips. I’m also starting to hear more people suggest SaaS will in fact be disrupted. All signs of possible capitulation on software. I do think this latest narrative has created a lot of confusion for SaaS vendors so their strategies going forward are a huge question mark and I believe will mark a turning point for the industry. As they say, "chaos is a ladder." So I'm pretty much ambivalent towards software as a group.
 
 However I think the bet against automation consuming everything is a good one at least in the short term. I believe a sort of mini bubble may have emerged here where the narrative has vastly outpaced the fundamentals and I’m not sure how much further that narrative can be extrapolated without some evidence of its truth.
 
