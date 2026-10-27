@@ -22,7 +22,7 @@ permalink: /valug/
 </div>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
-fetch('{{ "/_data/valug_signals.json" | relative_url }}').then(r=>{if(!r.ok)throw new Error('Could not load VALUG data');return r.json()}).then(data=>{
+fetch('{{ "/assets/valug_signals.json" | relative_url }}').then(r=>r.json()).then(data=>{\n{
  const a=data.observations, last=a[a.length-1], fmt=n=>Number(n).toFixed(2), dist=Math.abs(last.trigger-last.close), pct=dist/last.close*100;
  document.getElementById('v-close').textContent=fmt(last.close);
  document.getElementById('v-date').textContent=last.date;
@@ -37,5 +37,5 @@ fetch('{{ "/_data/valug_signals.json" | relative_url }}').then(r=>{if(!r.ok)thro
  {type:'scatter',label:'BUY signals',data:data.events.filter(x=>x.signal==='BUY').map(x=>({x:x.date,y:x.close})),backgroundColor:'#23864b',pointRadius:6},
  {type:'scatter',label:'SELL signals',data:data.events.filter(x=>x.signal==='SELL').map(x=>({x:x.date,y:x.close})),backgroundColor:'#bd3535',pointRadius:6}
  ]},options:{responsive:true,maintainAspectRatio:false,interaction:{mode:'index',intersect:false},plugins:{legend:{position:'bottom'}},scales:{x:{ticks:{maxTicksLimit:10}},y:{title:{display:true,text:'VALUG'}}}}});
-}).catch(e=>{document.querySelector('.valug-wrap').insertAdjacentHTML('beforeend','<p role="alert">Dashboard data could not be loaded: '+e.message+'</p>')});
+}
 </script>
