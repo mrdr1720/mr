@@ -5,7 +5,7 @@ import argparse, csv, subprocess, sys
 from datetime import date
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "_data" / "valug.csv"
 POSTS = ROOT / "_posts"
 
@@ -78,13 +78,17 @@ def main():
             w = csv.writer(f); w.writerow(["date", "close"])
             for r in rows: w.writerow([r["date"], f'{r["close"]:.2f}'])
         # Store derived values separately for the dashboard; recomputed from source CSV each run.
-        derived = ROOT / "_data" / "valug_signals.json"\n        public_data = ROOT / "assets" / "valug_signals.json"
+        derived = ROOT / "_data" / "valug_signals.json"
+        public_data = ROOT / "assets" / "valug_signals.json"
         import json
         payload = json.dumps({
             "observations": [{"date":r["date"],"close":r["close"],"signal":r["signal"],
                               "extreme":round(r["extreme"],2),"trigger":round(r["trigger"],2)} for r in rows],
             "events": events
-        }, indent=2) + "\n")
+        }, indent=2) + "\n"
+        derived.write_text(payload)
+        public_data.parent.mkdir(parents=True, exist_ok=True)
+        public_data.write_text(payload)
         event_text = "\n".join(f'- **{e["date"]} — {e["signal"]}** at {e["close"]:.2f}' for e in events)
         post = f'''---
 layout: post
