@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;900&display=swap" rel="stylesheet"><!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>VALUG Trend Monitor | Market Ramblings</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="VALUG Trend Monitor" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Random Market Notes" />
+<meta property="og:description" content="Random Market Notes" />
+<link rel="canonical" href="http://localhost:4000/valug/" />
+<meta property="og:url" content="http://localhost:4000/valug/" />
+<meta property="og:site_name" content="Market Ramblings" />
+<script type="application/ld+json">
+{"@type":"WebPage","url":"http://localhost:4000/valug/","headline":"VALUG Trend Monitor","description":"Random Market Notes","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Market Ramblings" /></head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Market Ramblings</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <!--<div class="trigger"><a class="page-link" href="/about/">About Me</a><a class="page-link" href="/valug/">VALUG Trend Monitor</a><a class="page-link" href="/VALUG-README.html">VALUG weekly updater</a></div>-->
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">VALUG Trend Monitor</h1>
+  </header>
+
+  <div class="post-content">
+    <style>
+.valug-wrap{max-width:1100px;margin:0 auto}.valug-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:14px;margin:22px 0}.valug-card{border:1px solid #ddd;border-radius:12px;padding:16px;background:#fff}.valug-label{font-size:.78rem;text-transform:uppercase;letter-spacing:.06em;color:#666}.valug-value{font-size:1.65rem;font-weight:700;margin-top:5px}.valug-signal{display:inline-block;padding:5px 12px;border-radius:20px;font-weight:700;background:#e8f4ec;color:#176b36}.valug-signal.sell{background:#faeaea;color:#9d2525}.valug-chart{height:420px;border:1px solid #ddd;border-radius:12px;padding:16px;margin:20px 0}.valug-table{width:100%;border-collapse:collapse}.valug-table th,.valug-table td{padding:9px;border-bottom:1px solid #eee;text-align:left}.valug-table th{font-size:.8rem;color:#666}.valug-note{color:#666;font-size:.9rem}@media(max-width:600px){.valug-chart{height:300px;padding:8px}.valug-value{font-size:1.35rem}}
+</style>
+
+<div class="valug-wrap">
+<p>Weekly-close trend model using a 4% reversal from the running extreme. A BUY signal remains active until a 4% decline from the highest close since BUY; a SELL signal remains active until a 4% rise from the lowest close since SELL.</p>
+<div class="valug-cards">
+ <div class="valug-card"><div class="valug-label">Latest weekly close</div><div class="valug-value" id="v-close">—</div><div class="valug-note" id="v-date"></div></div>
+ <div class="valug-card"><div class="valug-label">Current signal</div><div class="valug-value" id="v-signal">—</div></div>
+ <div class="valug-card"><div class="valug-label">Next reversal trigger</div><div class="valug-value" id="v-trigger">—</div><div class="valug-note" id="v-distance"></div></div>
+ <div class="valug-card"><div class="valug-label">Reference extreme</div><div class="valug-value" id="v-extreme">—</div><div class="valug-note" id="v-extreme-date"></div></div>
+</div>
+<div class="valug-chart"><canvas id="valug-chart" aria-label="VALUG weekly closes and signal changes"></canvas></div>
+<h2>Signal changes</h2>
+<table class="valug-table"><thead><tr><th>Date</th><th>Signal</th><th>Close</th></tr></thead><tbody id="v-events"></tbody></table>
+<p class="valug-note">Initialization assumption: BUY on October 31, 2025, with the reference high set to that observation's close. Historical signals are calculated from the supplied weekly closes. Dates reflect the dates supplied, including shortened holiday weeks.</p>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+fetch('/assets/valug_signals.json').then(r=>r.json()).then(data=>{
+ const a=data.observations, last=a[a.length-1], fmt=n=>Number(n).toFixed(2), dist=Math.abs(last.trigger-last.close), pct=dist/last.close*100;
+ document.getElementById('v-close').textContent=fmt(last.close);
+ document.getElementById('v-date').textContent=last.date;
+ document.getElementById('v-signal').innerHTML='<span class="valug-signal '+(last.signal==='SELL'?'sell':'')+'">'+last.signal+'</span>';
+ document.getElementById('v-trigger').textContent=fmt(last.trigger);
+ document.getElementById('v-distance').textContent=fmt(dist)+' points ('+pct.toFixed(2)+'%) to '+(last.signal==='BUY'?'SELL':'BUY');
+ document.getElementById('v-extreme').textContent=fmt(last.extreme);
+ document.getElementById('v-extreme-date').textContent='Extreme since current signal';
+ document.getElementById('v-events').innerHTML=data.events.slice().reverse().map(e=>'<tr><td>'+e.date+'</td><td><span class="valug-signal '+(e.signal==='SELL'?'sell':'')+'">'+e.signal+'</span></td><td>'+fmt(e.close)+'</td></tr>').join('');
+ new Chart(document.getElementById('valug-chart'),{type:'line',data:{labels:a.map(x=>x.date),datasets:[
+ {label:'VALUG weekly close',data:a.map(x=>x.close),borderColor:'#315f91',backgroundColor:'rgba(49,95,145,.08)',borderWidth:2,pointRadius:0,tension:.15},
+ {type:'scatter',label:'BUY signals',data:data.events.filter(x=>x.signal==='BUY').map(x=>({x:x.date,y:x.close})),backgroundColor:'#23864b',pointRadius:6},
+ {type:'scatter',label:'SELL signals',data:data.events.filter(x=>x.signal==='SELL').map(x=>({x:x.date,y:x.close})),backgroundColor:'#bd3535',pointRadius:6}
+ ]},options:{responsive:true,maintainAspectRatio:false,interaction:{mode:'index',intersect:false},plugins:{legend:{position:'bottom'}},scales:{x:{ticks:{maxTicksLimit:10}},y:{title:{display:true,text:'VALUG'}}}}});
+}).catch(e=>{document.querySelector(".valug-wrap").insertAdjacentHTML("beforeend","<p role=\"alert\">Dashboard data could not be loaded: "+e.message+"</p>"
+    );
+    });
+</script>
+
+
+  </div>
+
+</article>
+
+      </div>
+    </main>
+
+  </body>
+
+</html>
