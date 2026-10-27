@@ -5,7 +5,7 @@ import argparse, csv, subprocess, sys
 from datetime import date
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "_data" / "valug.csv"
 POSTS = ROOT / "_posts"
 
@@ -78,9 +78,9 @@ def main():
             w = csv.writer(f); w.writerow(["date", "close"])
             for r in rows: w.writerow([r["date"], f'{r["close"]:.2f}'])
         # Store derived values separately for the dashboard; recomputed from source CSV each run.
-        derived = ROOT / "_data" / "valug_signals.json"
+        derived = ROOT / "_data" / "valug_signals.json"\n        public_data = ROOT / "assets" / "valug_signals.json"
         import json
-        derived.write_text(json.dumps({
+        payload = json.dumps({
             "observations": [{"date":r["date"],"close":r["close"],"signal":r["signal"],
                               "extreme":round(r["extreme"],2),"trigger":round(r["trigger"],2)} for r in rows],
             "events": events
@@ -112,7 +112,7 @@ The model changes from BUY to SELL after a 4% decline from the highest weekly cl
         if post_path.exists():
             raise ValueError(f"Post already exists: {post_path.name}")
         post_path.write_text(post)
-        subprocess.run(["git", "add", str(DATA.relative_to(ROOT)), str(derived.relative_to(ROOT)), str(post_path.relative_to(ROOT))], cwd=ROOT, check=True)
+        subprocess.run(["git", "add", str(DATA.relative_to(ROOT)), str(derived.relative_to(ROOT)), str(public_data.relative_to(ROOT)), str(post_path.relative_to(ROOT))], cwd=ROOT, check=True)
         subprocess.run(["git", "commit", "-m", f"Add VALUG weekly close {d.isoformat()}"], cwd=ROOT, check=True)
         if not args.no_push:
             subprocess.run(["git", "push"], cwd=ROOT, check=True)
