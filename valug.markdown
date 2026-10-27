@@ -37,5 +37,5 @@ fetch('{{ "/assets/valug_signals.json" | relative_url }}').then(r=>r.json()).the
  {type:'scatter',label:'BUY signals',data:data.events.filter(x=>x.signal==='BUY').map(x=>({x:x.date,y:x.close})),backgroundColor:'#23864b',pointRadius:6},
  {type:'scatter',label:'SELL signals',data:data.events.filter(x=>x.signal==='SELL').map(x=>({x:x.date,y:x.close})),backgroundColor:'#bd3535',pointRadius:6}
  ]},options:{responsive:true,maintainAspectRatio:false,interaction:{mode:'index',intersect:false},plugins:{legend:{position:'bottom'}},scales:{x:{ticks:{maxTicksLimit:10}},y:{title:{display:true,text:'VALUG'}}}}});
-}
+}).catch(e=>{document.querySelector(".valug-wrap").insertAdjacentHTML("beforeend","<p role=\"alert\">Dashboard data could not be loaded: "+e.message+"</p>")});
 </script>
