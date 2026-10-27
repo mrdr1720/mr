@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "valug-weekly"
+version = "1.0.0"
+description = "Weekly VALUG 4% reversal signal updater"
+requires-python = ">=3.9"
+
+[project.scripts]
+valug = "valug_cli:main"
+
+[tool.setuptools]
+py-modules = ["valug_cli"]
