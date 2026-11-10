@@ -370,6 +370,13 @@
       "signal": "SELL",
       "extreme": 649.39,
       "trigger": 675.37
+    },
+    {
+      "date": "2026-11-06",
+      "close": 649.0,
+      "signal": "SELL",
+      "extreme": 649.0,
+      "trigger": 674.96
     }
   ],
   "events": [
