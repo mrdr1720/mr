@@ -12,7 +12,7 @@ seem complex. It's essentially applying LLM's to solve problems as opposed to wo
 
 A Forward-Deployed Engineer is a consultant. Distillation is using AI to solve problems. Don't let their bullshit reality distortion take you in!
 
-Phew. Had to get that off my shoulders. Let's continue.
+Phew. Had to get that off my chest. Let's continue.
 
 Palantir is in my view one of the largest bubbles in existence today but it's a bubble that very few seem to realize exists. I actually think very few people even understand what this company does in any real sense.
 
@@ -21,7 +21,9 @@ Palantir today trades at a market cap of around $400 billion. It has been around
 What changed? Did Palantir make some amazing technological discovery? Did they suddenly find product market fit in a new and growing segment? No, the company and product hasn't changed at all. But they have done a masterful job of riding a hype wave that has gotten totally
 out of control. Let me explain what I mean.
 
-Palantir has made itself one of the leading AI story stocks despite having no advantage whatsoever in AI. Prior to 2022 Palantir did not have a single reference to AI on its website. This can be verified by looking at the Wayback Machine. Prior to 2022, Palantir's angle was
+Palantir has made itself one of the leading AI story stocks despite having no advantage whatsoever in AI. Prior to 2022 Palantir did not have a single reference to AI on its website.
+
+This can be easily verified. <a href="https://web.archive.org/web/20211125024406/https://www.palantir.com/" target="_blank">Here is Palantir's website on November 25th, 2021.</a> Prior to 2022, Palantir's angle was
 actually data lakes. The reason for this is obvious. Prior to the emergence of the AI bubble with the release of ChatGPT, Snowflake was the enterprise software darling and Palantir wanted to replicate their success. When ChatGPT came out, they quickly pivoted to being an AI company (whatever that means).
 
 <h2>The Bubble Begins</h2>
@@ -82,4 +84,5 @@ This clip is particluarly funny to me. Watch as Steve Eisman starts to express c
   allowfullscreen>
 </iframe>
 
-There's an episode of Bill Maher where Maher is interviewing Karp and asks him point blank "but what does Palantir do?" It's very obvious Karp is uncomfortable and does not give a straight answer despite continued prying by Maher. I think both of these exchanges are pretty revealing in that you have two people who don't pretend to be for or against Palantir admit they have no idea what the CEO is talking about or what the company does but sort of gloss over it. These to me are all tell-tale signs of a bubble. There's no question in my mind that it's a bubble, the only thing up for debate is when it ends.
+
+There's an episode of Bill Maher where Maher is interviewing Karp and asks him point blank "but what does Palantir do?" It's very obvious Karp is uncomfortable and does not give a straight answer despite continued prying by Maher. I think both of these exchanges- Maher and Eisman- are very revealing in that you have two people who don't pretend to be for or against Palantir admit they have no idea what the CEO is talking about or what the company does. These to me are all tell-tale signs of a bubble. There's no question in my mind that it's a bubble, the only thing up for debate is when it ends.
